@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/kbk/flutter_gaming_app/BuildConfig.java
+ com.kbk.flutter_gaming_app.BuildConfig
